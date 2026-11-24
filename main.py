@@ -7,8 +7,8 @@ import os
 from pathlib import Path
 
 LINE = (
-    "I didn't break production; I gave it a surprise nap, and honestly, "
-    "the servers looked tired."
+    "Good news: I found the bug. Bad news: it was me, and production "
+    "is now taking an unscheduled nap."
 )
 
 # Gate self-check: 1-180 UTF-8 characters, not only whitespace.
